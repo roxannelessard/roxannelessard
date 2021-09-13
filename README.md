@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Roxanne</h1>
-<h3 align="center">A passionate software developer from Montreal, Canada</h3>
+<h3 align="center">Software developer from Montreal, Canada</h3>
 
 - 🔭 I’m currently working on [my personal website](www.rlessard.com)
 
 - 🌱 I’m currently learning **React, Typescript, Node Js**
 
+- 👨‍💻 Workwise project is available at [www.workwise.live](www.workwise.live)
+
+- 👨‍💻 Buddy Finder project is available at [https://buddy-finder-fv.herokuapp.com/](https://buddy-finder-fv.herokuapp.com/)
+
 - 📫 How to reach me **me@rlessard.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/roxannelessard/](https://www.linkedin.com/in/roxannelessard/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/lessard.roxanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lessard.roxanne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roxannelessard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roxannelessard/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lessard.roxanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lessard.roxanne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
