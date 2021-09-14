@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Node Js**
 
-- 👨‍💻 Workwise project is available at [[https://www.workwise.live](www.workwise.live)
+- 👨‍💻 Workwise project is available at [www.workwise.live](www.workwise.live)
 
 - 👨‍💻 Buddy Finder project is available at [https://buddy-finder-fv.herokuapp.com/](https://buddy-finder-fv.herokuapp.com/)
 
