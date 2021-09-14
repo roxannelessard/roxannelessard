@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roxanne</h1>
-<h3 align="center">Software developer from Montreal, Canada</h3>
+<h1 align="left">Hi 👋, I'm Roxanne</h1>
+<h3 align="left">Software developer from Montreal, Canada</h3>
 
 - 🔭 I’m currently working on [my personal website](www.rlessard.com)
 
