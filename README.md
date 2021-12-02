@@ -9,8 +9,8 @@
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roxannelessard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxannelessard" height="30" width="40" /></a>
-<a href="https://instagram.com/lessard.roxanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lessard.roxanne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roxannelessard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxannelessard" height="20" width="20" /></a>
+<a href="https://instagram.com/lessard.roxanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lessard.roxanne" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Learning & using:</h3>
