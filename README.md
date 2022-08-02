@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋, I'm Roxanne</h2>
 <h4 align="left">Software developer from Montreal, Canada</h4>
 
-- 🔭 Have a look at [my personal website](https://www.rlessard.com){target="_blank"}
-- 🌱 I’m currently learning & working with **React, Typescript, Node Js**
+- 🔭 Have a look at [my personal website](https://www.rlessard.com)
+- 🌱 I’m currently learning & working with **React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>, Typescript, Node Js**
 - 📫 Reach me @ **me@rlessard.com**
 
 <h4 align="left">Find me on:</h4>
