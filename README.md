@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Roxanne</h2>
 <h4 align="left">Software developer from Montreal, Canada</h4>
 
-- 🔭 Have a look at [my personal website](www.rlessard.com)
+- 🔭 Have a look at [my personal website](https://www.rlessard.com)
 - 🌱 I’m currently learning **React, Typescript, Node Js**
 - 📫 How to reach me **me@rlessard.com**
 
